@@ -1,4 +1,4 @@
-# CrewAI-Flows with Open Source LLM
+# CrewAI-Flows with Open Source LLM + Monitoring with AgentOps
 
 ## 📌 Overview
 crewAiFlow.py defines an AI-powered workflow using CrewAI and OllamaLLM. It integrates AgentOps to track agent activity and utilizes event-based logic for process automation.
