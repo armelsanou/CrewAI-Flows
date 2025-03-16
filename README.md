@@ -17,6 +17,11 @@ Execute the script using:
 
 python crewAiFlow.py
 
+## Displaying the flow
+
+![image](https://github.com/user-attachments/assets/1654e430-0490-404d-8f22-ef84ca5d9fe7)
+
+
 ## 📚 Features
 
 CrewAI Agent Management for intelligent workflows
