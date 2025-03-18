@@ -8,6 +8,8 @@ Install the required packages:
 
 #### Caution : CrewAI requires Python >=3.10 and <3.13
 
+#### Pull LLM model locally using ollama pull llama3.2:3b or any other model you want see : https://ollama.com/library
+
 pip install crewai langchain_ollama python-dotenv crewai-tools agentops 
 
 pip install crewai crewai'tools' agentops langchain_ollama python-dotenv
