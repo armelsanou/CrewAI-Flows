@@ -6,7 +6,12 @@ crewAiFlow.py defines an AI-powered workflow using CrewAI and OllamaLLM. It inte
 ## 🛠️ Dependencies
 Install the required packages:
 
+#### Caution : CrewAI requires Python >=3.10 and <3.13
+
+pip install crewai langchain_ollama python-dotenv crewai-tools agentops 
+
 pip install crewai crewai'tools' agentops langchain_ollama python-dotenv
+
 ## ⚙️ Configuration
 Create a .env file to store your AgentOps API key:
 
